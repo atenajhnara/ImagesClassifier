@@ -26,5 +26,6 @@ API keys and tokens are stored locally in a .env file and are not uploaded to Gi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/ImagesClassifier.git
+   git clone https://github.com/atenajhnara/ImagesClassifier.git
    cd ImagesClassifier
+
