@@ -1,2 +1,10 @@
-# ImagesClassifier
-A Telegram bot that classifies images using MobileNetV2.  Users send a photo, and the bot replies with the predicted class and confidence percentage.  API keys and tokens are stored locally in a .env file and are not uploaded to GitHub.
+# ImagesClassifier Telegram Bot
+
+این پروژه یک ربات تلگرام است که عکس دریافت می‌کند و کلاس تصویر را با MobileNetV2 پیش‌بینی می‌کند.
+
+## راه‌اندازی
+
+1. نصب کتابخانه‌ها:
+
+```bash
+pip install -r requirements.txt
